@@ -18,7 +18,7 @@ function Header() {
   };
 
   return (
-    <Navbar expand="lg" sticky="top" bg="dark" variant="dark" expanded={expanded} className="py-3">
+    <Navbar expand="lg" sticky="top" bg="dark" variant="dark" expanded={expanded}>
       <Container>
         <Navbar.Brand as={Link} to="/" className="fw-bold fs-3">
           Bhabani Sahu | MERN Developer

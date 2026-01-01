@@ -25,8 +25,8 @@ function Hero() {
                             alt="Your Profile"
                             className="rounded-circle img-fluid shadow"
                             style={{
-                                width: '420px',        
-                                height: '420px',       
+                                width: '300px',        
+                                height: '300px',       
                                 objectFit: 'cover',   
                                 maxWidth: '100%',      
                                 border: '5px solid white', 
