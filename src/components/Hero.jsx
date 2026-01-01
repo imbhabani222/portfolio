@@ -25,11 +25,11 @@ function Hero() {
                             alt="Your Profile"
                             className="rounded-circle img-fluid shadow"
                             style={{
-                                width: '320px',        // Fixed width
-                                height: '320px',       // Fixed height (same as width → perfect circle)
-                                objectFit: 'cover',    // Ensures the image fills the circle nicely (crops if needed)
-                                maxWidth: '100%',      // Responsive on smaller screens
-                                border: '5px solid white', // Optional: adds a nice border
+                                width: '420px',        
+                                height: '420px',       
+                                objectFit: 'cover',   
+                                maxWidth: '100%',      
+                                border: '5px solid white', 
                             }}
                         />
                     </Col>
