@@ -1,10 +1,15 @@
 import React from 'react';
-import Header from './components/Header';
+import 'antd/dist/reset.css';
+import { Button } from "antd";
+import PortfolioLayout from './components/PortfolioLayout';
 
 function App() {
   return (
-    <div><Header/></div>
+    <div>
+     <PortfolioLayout/>
+    </div>
   );
 }
+
 
 export default App;

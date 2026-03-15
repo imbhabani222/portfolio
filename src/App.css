@@ -4,6 +4,12 @@
   /* padding: 2rem; */
   text-align: center;
 }
+body, #root, .app {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 40%, #1e40af 70%, #3b82f6 100%);
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+}
 
 .logo {
   height: 6em;
