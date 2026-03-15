@@ -1,0 +1,38 @@
+.footer {
+  background: #001529;
+  color: white;
+  padding: 12px 20px;
+}
+
+.leftSection {
+  text-align: center;
+}
+
+.centerSection {
+  text-align: center;
+}
+
+.rightSection {
+  text-align: center;
+}
+
+.copyrightText {
+  color: white;
+  font-size: 12px;
+}
+
+.image {
+  width: 180px;
+  height: 80px;
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.socialTitle {
+  color: white;
+}
+
+.socialIcon {
+  color: white;
+  font-size: 22px;
+}

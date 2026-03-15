@@ -1,0 +1,24 @@
+.header {
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50%;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.desktopMenu {
+  flex: 1;
+  margin-left: 40px;
+}
+
+.menuButton {
+  color: white;
+  font-size: 20px;
+}
