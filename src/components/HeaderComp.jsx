@@ -17,6 +17,7 @@ const HeaderComp = () => {
   const onClick = (e) => {
     setCurrent(e.key);
     setOpen(false);
+
   };
 
   return (
